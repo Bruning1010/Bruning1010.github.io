@@ -1,6 +1,6 @@
 /*fonticons*/
 [class^="icon-"], [class*=" icon-"] { font-family: 'icons'; speak: none; font-style: normal; font-weight: normal; font-variant: normal; text-transform: none; line-height: 1; /* Better Font Rendering =========== */
--webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
+/*-webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
 .icon-Favorites:before { content: "\e600"; }.icon-logo:before { content: "\e608"; }
 .icon-newspaper:before { content: "\e609"; }.icon-dice:before { content: "\e60a"; }
 .icon-pacman:before { content: "\e60b"; }.icon-book:before { content: "\e60c"; }
@@ -90,7 +90,7 @@
 .icon-circles:before { content: "\e669"; }
 .icon-vk:before { content: "\e66a"; }
 .icon-smashing:before { content: "\e66b"; }
-
+*/
 .fs0 {
 	font-size: 16px;
 }
